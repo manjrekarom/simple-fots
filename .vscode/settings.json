@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "/home/fayyaz/anaconda3/envs/torch-ml/bin/python",
+    "git.ignoreLimitWarning": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.banditEnabled": true
+}
